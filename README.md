@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahsanmirxa032
+- 👋 Hi, This is Muhammad Ahsan Mirza, Software Engineer here looking for other people in the same vicinity to meet
 -  I have expertise and have more than 2 years of experience in the software engineering industry.
 -  I've worked in:
 -   C++
