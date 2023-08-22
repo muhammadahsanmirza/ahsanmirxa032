@@ -11,7 +11,7 @@
 -   CSS
 -     Bootstrap
 -     Tailwind
--     SASS
+-     SASS/SCSS
 -   DataBase     
 -     Mongo Db
 -     SQL
